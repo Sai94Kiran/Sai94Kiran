@@ -1,3 +1,4 @@
+![logo](https://github.com/Sai94Kiran/Sai94Kiran/blob/main/GITHUB%20BANNER.gif)
 <h1 align="center">Hi 👋, I'm Sai Kiran</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.webp?cid=ecf05e47j85wgvfh3ex1ysldxuu94dv8hd5q5at2a1icgrad&ep=v1_gifs_search&rid=giphy.webp&ct=g">
